@@ -1,4 +1,4 @@
-# FOODIMAGECLASSIFICATION-MICHELINGUIDE
+# FOOD-IMAGE-CLASSIFICATION-MICHELIN-GUIDE
 
 This repository is intended for the group members of the *Advanced Analytics in a Big Data World* course to collaborate for the second assignment (deep learning on images).
 
